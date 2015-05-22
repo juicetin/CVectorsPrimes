@@ -1,0 +1,9 @@
+#!/bin/bash
+# calculate the mean average of wall clock time from multiple /usr/bin/time results.
+# for i in {1..2}; do ./scaler < tests/tester.in; done
+
+
+START=$(time)
+END=$(time)
+# DIFF=$((END - START))
+# echo $DIFF

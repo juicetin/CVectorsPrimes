@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./scaler < tests/tester.in > tests/tester.obs.out
+

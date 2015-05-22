@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "left: observed................right:correct"
+./scaler < tests/tester.in > tests/tester.obs.out
+./scalerCorrect < tests/tester.in > tests/tester.exp.out
+sdiff tests/tester.obs.out tests/tester.exp.out
+echo left:"observed.................right:correct"

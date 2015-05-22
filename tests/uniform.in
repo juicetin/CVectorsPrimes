@@ -1,0 +1,6 @@
+4 8
+10 2 2
+vector= uniform 2
+vector= uniform 2359
+compute display 0
+compute display 1

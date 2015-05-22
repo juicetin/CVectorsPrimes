@@ -1,0 +1,4 @@
+4 4
+20 1 2
+vector= uniform 100
+compute frequency 0 100

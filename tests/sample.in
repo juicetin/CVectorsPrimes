@@ -1,0 +1,38 @@
+4 8
+3 12 24
+vector= primes 2
+vector= random 1
+vector= uniform 1
+vector= sequence 1 1
+vector= sequence 1 2
+vector= reversed 0
+vector= ascending 3
+vector= descending 3
+vector= scalar#add 2 2
+vector= scalar#mul 2 2
+vector= vector#add 2 2
+vector= vector#mul 2 2
+compute display 0
+compute display 1
+compute display 2
+compute display 3
+compute display 4
+compute display 5
+compute display 6
+compute display 7
+compute display 8
+compute display 9
+compute sum 0
+compute sum 1
+compute sum 2
+compute sum 3
+compute sum 4
+compute sum 5
+compute mode 3
+compute median 3
+compute minimum 3
+compute maximum 3
+compute element 0 0
+compute element 0 1
+compute frequency 2 0
+compute frequency 2 1

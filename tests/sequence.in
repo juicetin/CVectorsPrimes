@@ -1,0 +1,6 @@
+4 8
+100 2 2
+vector= sequence 3 4
+vector= sequence 9 2
+compute display 0
+compute minimum 0

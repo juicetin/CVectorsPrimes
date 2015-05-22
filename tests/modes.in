@@ -1,0 +1,32 @@
+4 4
+5000 15 15
+vector= primes 43
+vector= random 789
+vector= uniform 975
+vector= sequence 0 24
+vector= sequence 0 -24
+vector= sequence -26 -29
+vector= sequence 999 -9
+vector= sequence 42 -49
+vector= reversed 5
+vector= ascending 1
+vector= descending 2
+vector= scalar#add 3 1
+vector= scalar#mul 4 2
+vector= vector#add 6 9
+vector= vector#mul 2 7
+compute mode 0
+compute mode 1
+compute mode 2
+compute mode 3
+compute mode 4
+compute mode 5
+compute mode 6
+compute mode 7
+compute mode 8
+compute mode 9
+compute mode 10
+compute mode 11
+compute mode 12
+compute mode 13
+compute mode 14
